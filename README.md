@@ -2,7 +2,6 @@
 
 https://colab.research.google.com/drive/1zbXWa7PJym5rkQiUsMH_K_t339mleCIq#scrollTo=T1OlIEgqU2Pi
 
-https://colab.research.google.com/drive/1AKICwmc5HD3wvXtA8_d_UjnZbPR3P4gm?usp=sharing
 
 **Update:**
 
