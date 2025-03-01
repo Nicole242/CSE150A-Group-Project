@@ -14,7 +14,7 @@ Conclusion: Our first model had an acceptable level of accuracy of approximately
 
 
 
-**old: **
+**old:**
 
 Our AI agent is a utlity-based agent that analyzes customer data from bank-full.csv and makes inferences about the likelihood of a customer subscribing based on 17 different features. We are measuring our agent's performance by looking at the values provided in the classfication report, which includes measures such as precison, recall, f1-score, and support. The sensors of our agent read in the bank-full.csv file and this file becomes the environment that our agent operates in. We then train our logistic regression model to make predictions about the likelihood of subscription and have yet to implement our actuators yet, which would send emails to customers based on those predictions. We have set up our agent by importing the neccessary datset that it needs to train our model and have made modifications to our dataset, such as encoding our categorical variables, scaling any numeric values, and handling missing data. Our agent serves a valuable purpose in probabilistic modeling due to it being a utility based agent because it aims to maximize potential clients. This agent would greatly benefit business owners who need the best possible outcomes to maximize their profit. 
 
