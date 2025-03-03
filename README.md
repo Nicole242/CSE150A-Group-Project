@@ -16,7 +16,7 @@ The specifications regarding what is being done within the functions is outlined
 Conclusion: Our first model had an acceptable level of accuracy of approximately 80%, though there is still room for improvement. Particularly, our model struggled the most when accurately predicting a positive instance of a subscription which was reflected in the low precision, recall and f1-scores. However, our model was mostly successful at predicting which customers would not subscribe. To improve our model, we can refine our preprocessing steps(further generating new features, transforming via polynomial, etc) and incorporating additional features in the data. We could also try to improve our model by altering the intervals when discretizing our data.
 
 Diagram of our model: 
-
+(https://github.com/Nicole242/CSE150A-Group-Project/blob/Milestone2/150diagram.png)
 
 **old:**
 
