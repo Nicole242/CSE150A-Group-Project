@@ -15,5 +15,5 @@ The specifications regarding what is being done within imported functions(like p
 Conclusion: 
 
 Diagram of our model: 
-![Digram](https://github.com/Nicole242/CSE150A-Group-Project/blob/Milestone2/150diagram.png)
+![Digram](https://github.com/Nicole242/CSE150A-Group-Project/blob/Milestone3/150diagram2.png)
 
