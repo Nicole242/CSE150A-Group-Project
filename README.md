@@ -15,6 +15,7 @@ We use polynomial transformations to generate new features, iterating through po
 
 Conclusion:
 The accuracy of our model is now 87.65%, though there is still room for improvement. Particularly, our model struggled the most when accurately predicting a positive instance of a subscription which was reflected in the low precision, recall and f1-scores. However, our model was quite successful at predicting which customers would not subscribe. This is shown in our generated confusion matrix: 
+
 <img src="https://github.com/Nicole242/CSE150A-Group-Project/blob/Milestone3/confusematrix150.png" alt="ConfusionMatrix" width="300">
 
 Overall our new model is superior to the previous. To improve our model, we could try to alter the intervals when discretizing our data. We could also cluster all of our feature variables into one hidden ‘super’ variable, that goes to our observed ‘y’. Then we could create a hidden markov model to predict the outcome. This would have limitations however as clustering 7 feature variables would make the CPT of the node exponentially more complex. 
