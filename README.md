@@ -18,7 +18,7 @@ The accuracy of our model is now 87.65%, though there is still room for improvem
 
 <img src="https://github.com/Nicole242/CSE150A-Group-Project/blob/Milestone3/confusematrix150.png" alt="ConfusionMatrix" width="300">
 
-Overall our new model is superior to the previous. To improve our model, we could try to alter the intervals when discretizing our data. Another improvement we could consider is analyzing and adjusting our data for potential biases(e.g. certain demographics may be underrepresented). We could also try clustering all of our feature variables into one hidden ‘super’ variable, that goes to our observed ‘y’. Then we could create a hidden markov model to predict the outcome. This would have limitations however as clustering 7 feature variables would make the CPT of the node exponentially more complex.  
+Overall our new model is superior to the previous. To further improve our model, we could try to alter the intervals when discretizing our data. Another improvement we could consider is analyzing and adjusting our data for potential biases(e.g. certain demographics may be underrepresented). We could also try clustering all of our feature variables into one hidden ‘super’ variable, that goes to our observed ‘y’. Then we could create a hidden markov model to predict the outcome. This would have limitations however as clustering 7 feature variables would make the CPT of the node exponentially more complex.  
 
 
 Sources: 
