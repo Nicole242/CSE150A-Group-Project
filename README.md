@@ -1,6 +1,6 @@
 # CSE150A-Group-Project
 
-https://colab.research.google.com/drive/1SIrCfJj4YnumBDXQ1dHT_sR8NjnJsEVO#scrollTo=PHs7V8dFVxir 
+https://colab.research.google.com/drive/1SIrCfJj4YnumBDXQ1dHT_sR8NjnJsEVO?usp=sharing
 
 
 **Update:**
